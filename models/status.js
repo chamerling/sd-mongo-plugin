@@ -1,3 +1,8 @@
+//
+// Status Schema. Schema is not strict to be able to handle any type of status dashboard payload.
+//
+// Christophe Hamerling <christophe.hamerling@gmail.com>
+//
 
 var mongoose = require('mongoose')
   , Schema = mongoose.Schema;
